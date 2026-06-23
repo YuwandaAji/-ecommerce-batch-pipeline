@@ -1,4 +1,7 @@
 ecomvenv/
+data/
+logs/
+create_datasets.py
 
 # Credentials - JANGAN PERNAH commit ini
 keys/
